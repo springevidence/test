@@ -1,0 +1,25 @@
+.disabled {
+    opacity: 0.5;
+    background-color: gray;
+    height: 33px;
+    width: 98px;
+    border: solid 3px goldenrod;
+    border-radius: 5px;
+}
+.btns {
+    cursor: pointer;
+    height: 35px;
+    width: 100px;
+    margin: 5px;
+    border: solid 3px goldenrod;
+    border-radius: 5px;
+    background-color: chocolate;
+    color: gold;
+    font-size: 20px;
+}
+.btns:hover {
+    background-color: saddlebrown;
+}
+.btns:active {
+    background-color: chocolate;
+}

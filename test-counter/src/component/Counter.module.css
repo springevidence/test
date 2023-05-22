@@ -1,0 +1,25 @@
+.wrapper {
+    border: solid 5px goldenrod;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 10px;
+    background-color: gold;
+}
+
+.counter {
+    margin-bottom: 10px;
+    border: solid 3px goldenrod;
+    border-radius: 5px;
+    color: chocolate;
+    font-size: 35px;
+}
+
+.red {
+    color: red;
+}
+
+.buttons {
+    border: solid 3px goldenrod;
+    border-radius: 5px;
+    padding: 10px;
+}
